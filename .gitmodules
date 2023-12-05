@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/lucasBmm/nestjs-chat-server.git
+[submodule "client"]
+	path = client
+	url = https://github.com/lucasBmm/nextjs-chat-client.git
